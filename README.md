@@ -4,6 +4,22 @@ HBNB - The Console
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ---
+## Resources
+ 
+ **Read or watch**:
+ 
+ -   [cmd module](https://docs.python.org/3.8/library/cmd.html)
+ -   [cmd module in depth](http://pymotw.com/2/cmd/)
+ -   [**packages**](https://docs.python.org/3.4/tutorial/modules.html#packages)
+ -   [uuid module](https://docs.python.org/3.8/library/uuid.html)
+ -   [datetime](https://docs.python.org/3.8/library/datetime.html)
+ -   [unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
+ -   [args/kwargs](https://intranet.alxswe.com/rltoken/C_a0EKbtvKdMcwIAuSIZng "args/kwargs")
+ -   [Python test cheatsheet](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+ -   [cmd module wiki page](https://wiki.python.org/moin/CmdModule)
+ -   [python unittest](https://realpython.com/python-testing/)
+
+--------------
 
 ### Repository Contents by Project Task
 
