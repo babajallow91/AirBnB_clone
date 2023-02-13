@@ -11,6 +11,7 @@ This repository contains the initial stage of a student project to build a clone
  -   [cmd module](https://docs.python.org/3.8/library/cmd.html)
  -   [cmd module in depth](http://pymotw.com/2/cmd/)
  -   [**packages**](https://docs.python.org/3.4/tutorial/modules.html#packages)
+ -   [packages import-from](https://github.com/babajallow91/AirBnB_clone/blob/main/Python_packages.md)
  -   [uuid module](https://docs.python.org/3.8/library/uuid.html)
  -   [datetime](https://docs.python.org/3.8/library/datetime.html)
  -   [unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
