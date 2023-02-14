@@ -1,15 +1,16 @@
 #!/usr/bin/python3
-""" module for City class """
+"""
+Defines the City class
+"""
+
 from models.base_model import BaseModel
 
-
 class City(BaseModel):
+    """Represent a City
+       Attributes:
+           state_id (str): The id of the state
+           name (str): The name of the state
     """
-    initiation of City that inherits from BaseModel class
 
-    Public Class Attributes:
-       (string) state_id: initialized as empty string
-       (string) name: initialized as empty string
-    """
     state_id = ""
     name = ""
